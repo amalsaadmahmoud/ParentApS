@@ -1,0 +1,4 @@
+I am not able to assert if the event got added successfully to the calendar due to crash on the system itself
+please check the demo to detect the crash issue during calender loading.
+
+I just assert in calender page for create event button.

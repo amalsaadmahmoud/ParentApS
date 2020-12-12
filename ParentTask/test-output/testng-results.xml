@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-11T22:28:00 EET" name="Suite" finished-at="2020-12-11T22:29:20 EET" duration-ms="79930">
+    <groups>
+    </groups>
+    <test started-at="2020-12-11T22:28:00 EET" name="Test" finished-at="2020-12-11T22:29:20 EET" duration-ms="79930">
+      <class name="TCS.EventsTCs">
+        <test-method signature="verifyLoginSuccessfull()[pri:0, instance:TCS.EventsTCs@623a8092]" started-at="2020-12-11T22:28:00 EET" name="verifyLoginSuccessfull" finished-at="2020-12-11T22:29:20 EET" duration-ms="79880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginSuccessfull -->
+      </class> <!-- TCS.EventsTCs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
